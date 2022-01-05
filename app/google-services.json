@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "274069112443",
+    "firebase_url": "https://letschat--arayva-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "letschat--arayva",
+    "storage_bucket": "letschat--arayva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274069112443:android:be6e4f7cedfe26993484de",
+        "android_client_info": {
+          "package_name": "com.project.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274069112443-gcahea0sia7ehg0tfgsdg0i2nh2kjt2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUv2jrM1pWx49IrJbSTBMNZ0jFl4w5Alc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274069112443-gcahea0sia7ehg0tfgsdg0i2nh2kjt2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274069112443:android:0917f5ecafbcc0823484de",
+        "android_client_info": {
+          "package_name": "com.stephanie.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274069112443-gcahea0sia7ehg0tfgsdg0i2nh2kjt2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUv2jrM1pWx49IrJbSTBMNZ0jFl4w5Alc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274069112443-gcahea0sia7ehg0tfgsdg0i2nh2kjt2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
